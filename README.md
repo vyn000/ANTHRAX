@@ -1,6 +1,6 @@
 <div align="center">
 
-<pre style="color: #ff0000; font-weight: bold; font-size: 1.2em; line-height: 1.1; background: #0d0d0d; padding: 15px; border-radius: 8px; border: 2px solid #ff0000;">
+<pre style="color: #880808; font-weight: bold; font-size: 1.2em; line-height: 1.1; background: #0d0d0d; padding: 15px; border-radius: 8px; border: 2px solid #ff0000;">
 ╔═══════════════════════════════════════════════════════════╗
 ║                                                           ║
 ║    ___    _   _   _____   _   _  ______    ___   __   __  ║
@@ -36,12 +36,6 @@ pip install requests pyfiglet
 ```
 
 ---
-
-## 🚀 Usage
-
-```bash
-python anthrax.py
-```
 
 <div align="center">
 
