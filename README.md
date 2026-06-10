@@ -2,7 +2,7 @@
 
 ---
 
-### ⚡ **A significantly fast Discord message sender** ⚡
+### ⚡ **ANTHRAX is a significantly fast tool used in auto Discord message sending** ⚡
 
 </div>
 
